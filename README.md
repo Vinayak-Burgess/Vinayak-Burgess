@@ -1,7 +1,7 @@
 # Hi there, I'm Vinayak! 👋
 ### Aspiring Cyber Security Specialist & Python Developer
 
-I am currently a student at **IU International University of Applied Sciences (Germany)**, focusing on Cyber Security. My background includes IT Management and Hardware Assembly, and I am currently pivoting into **Ethical Hacking** and **Security Automation**.
+I am a passionate technologist transitioning from IT Management and Web Development into the world of **Ethical Hacking** and **Security Automation**. I enjoy building tools that solve real-world problems and exploring the "how" behind system vulnerabilities.
 
 ---
 
@@ -28,9 +28,8 @@ I am currently a student at **IU International University of Applied Sciences (G
 
 ---
 
-### 📊 **My Stats**
+### 📊 **GitHub Stats**
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Burgess&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Burgess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
