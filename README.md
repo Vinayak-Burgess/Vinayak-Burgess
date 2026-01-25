@@ -29,8 +29,8 @@ I am currently a student at **IU International University of Applied Sciences (G
 ---
 
 ### 📊 **My Stats**
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Burgess&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Burgess&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
