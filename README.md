@@ -29,7 +29,7 @@ I am a passionate technologist transitioning from IT Management and Web Developm
 ---
 
 ### 📊 **GitHub Stats**
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Burgess&show_icons=true&theme=radical)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Burgess&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
