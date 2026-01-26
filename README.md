@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Github-Banner-Vinayak-Burgess.png" width="100%" alt="Vinayak Burgess Banner">
+  <img src="./Github_Banner-Vinayak-Burgess.png" width="100%" alt="Vinayak Burgess Banner">
 </p>
 
 <h1 align="center">Vinayak Burgess 🏳️‍⚧️</h1>
