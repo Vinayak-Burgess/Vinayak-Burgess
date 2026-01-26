@@ -1,40 +1,56 @@
-# Hi there, I'm Vinayak! 👋
-### Aspiring Cyber Security Specialist & Python Developer
+<p align="center">
+  <img src="./Github-Banner-Vinayak-Burgess.png" width="100%" alt="Vinayak Burgess Banner">
+</p>
 
-I am a passionate technologist transitioning from IT Management and Web Development into the world of **Ethical Hacking** and **Security Automation**. I enjoy building tools that solve real-world problems and exploring the "how" behind system vulnerabilities.
-
----
-
-### 🚀 **What I'm Working On**
-- 🛡️ **Cyber Security:** Learning Network Penetration Testing & Linux (Kali).
-- 🐍 **Python:** Completing the "100 Days of Code" Bootcamp (Building automation tools & GUIs).
-- 💻 **Scripting:** Mastering **PowerShell** for Windows administration & **SQL** for database management.
+<h1 align="center">Vinayak Burgess 🏳️‍⚧️</h1>
+<p align="center">
+  <b>Cybersecurity Student | Python Developer | Fashion Enthusiast</b><br>
+  <i>Bridging the gap between secure systems and aesthetic design.</i>
+</p>
 
 ---
 
-### 🛠️ **My Tech Stack**
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 👩‍💻 About Me
+I am a technical professional based in Germany, transitioning from IT Management into **Offensive Security** and **Security Automation**. I believe that code, much like fashion, should be functional, elegant, and perfectly tailored to its purpose.
 
-**Tools & OS:**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+- 🐍 **Currently:** Deep-diving into Python Automation via the "100 Days of Code" challenge.
+- 🛡️ **Focus:** Network Security, Pentesting, and PowerShell Scripting.
+- 💅 **Style:** Obsessed with UI/UX aesthetics and high-fashion trends.
+- 🏳️‍⚧️ **Identity:** Proudly advocating for diversity and trans visibility in the tech industry.
 
 ---
 
-### 📊 **GitHub Stats**
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Burgess&show_icons=true&theme=radical&cache_seconds=1800)
+### 🛠️ Technical Arsenal
+
+#### **Languages & Scripting**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,powershell,bash,html,css,js" />
+</p>
+
+#### **Security & Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,mysql,pennant" />
+</p>
+
+#### **Tools & Environments**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions" />
+</p>
 
 ---
 
-### 🤝 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/vinayak-vinayak/)
-- [Google Developers](https://g.dev/vinayakburgess)
+### 🔭 Current Focus
+- [ ] Completing **Day 100** of Python Automation.
+- [ ] Setting up a dedicated Home Lab for **Network Pentesting**.
+- [ ] Mastering **SQL Injection** prevention techniques.
 
-_Running on coffee and determination. ☕_
+---
+
+### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Vinayak-Burgess)
+[<img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://g.dev/VINAYAKBURGESS)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vinayak-vinayak)
+
+<p align="right">
+  <i>"Simplicity is the ultimate sophistication."</i> — Leonardo da Vinci 🕊️
+</p>
