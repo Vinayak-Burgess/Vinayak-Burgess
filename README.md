@@ -47,6 +47,7 @@ I am a technical professional based in Germany, transitioning from IT Management
 ---
 
 ### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/Portfolio-5BCEFA?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://vinayak-burgess.github.io/portfolio/)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Vinayak-Burgess)
 [<img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://g.dev/VINAYAKBURGESS)
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vinayak-vinayak)
